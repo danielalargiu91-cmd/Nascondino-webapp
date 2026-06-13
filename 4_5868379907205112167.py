@@ -102,7 +102,7 @@
         }
         /* Sfondo porta magica */
         .door-bg {
-            background-image: url(https://postimg.cc/BP8xMH5n); /* <-- CAMBIA CON URL REALE */
+            background-image: url(https://i.postimg.cc/BbpMZCXH/AQP3zfwo-G52Pp-Hf-Qc-WU2l5Rmf3s-L5ISkr-Dm-K2JZE2hbv-Sw-V7GEfzh-Mxj-V7Wisd-Zw-U0CZd-YSNh2hc-AKUWUzh1x.jpg); /* <-- CAMBIA CON URL REALE */
             background-size: cover;
             background-position: center;
         }
